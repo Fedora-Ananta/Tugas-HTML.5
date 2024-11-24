@@ -1,0 +1,70 @@
+.headline {
+  height: 55px;
+  background-color: #798645;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-bottom: 20px;
+  font-size: 25px;
+  text-align: center;
+  font-weight: bold;
+  padding-top: 20px;
+}
+.namadankelas {
+  width: 100%;
+  height: 30px;
+  background-color: #fefae0;
+  padding-top: 10px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  gap: 15px;
+}
+
+.kotak1 {
+  width: 20%;
+  height: 300px;
+  background-color: #626f47;
+}
+
+.kotak2 {
+  width: 80%;
+  height: 300px;
+  background-color: #f2eed7;
+  overflow: auto;
+  padding: 5px 20px 5px 20px;
+}
+
+.picture {
+  background-color: #3b3030;
+  margin-top: 20px;
+  height: 155px;
+  padding-top: 10px;
+  padding-bottom:10px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  gap:10px; 
+}
+
+.custom-list {
+  font-size: 16px;
+}
+
+li a:hover {
+  font-size: 18px;
+  color: #d7b26d;
+}
+
+li {
+  color: #b59f78;
+}
+
+li a {
+  color: #b59f78;
+}
+
+h4 {
+  padding-left: 15px;
+}
